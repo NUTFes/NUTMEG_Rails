@@ -1,4 +1,4 @@
-# wantedly_2022_summer_intern_ship_task
+# Ruby on Rails with Docker
 ## 環境構築の手順
 
 下記のコマンドを実行  
